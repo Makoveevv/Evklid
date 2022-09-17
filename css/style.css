@@ -88,7 +88,7 @@ p{
 
 /*Hero*/
 .section-hero__container{
-    background-image: url(/img/hero.jpg);
+    background-image: url(../img/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
@@ -146,7 +146,7 @@ p{
 .section-about__image{
     display: flex;
     align-items: end;
-    background-image: url(/img/builder.png);
+    background-image: url(../img/builder.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top start;
@@ -203,11 +203,11 @@ p{
 }
 
 .section-about__box_img{
-    background-image: url(/img/box.png);
+    background-image: url(../img/box.png);
 }
 
 .section-about__gear_img{
-    background-image: url(/img/gear.png);
+    background-image: url(../img/gear.png);
 }
 
 .section-about__card_heading{
